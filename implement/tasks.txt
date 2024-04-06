@@ -1,0 +1,2 @@
+fix google maps showing in only i page and loading... on other page.
+copyright images
