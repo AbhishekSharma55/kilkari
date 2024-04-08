@@ -329,18 +329,6 @@ const home = () => {
               <br /> Indore
             </div>
           </div>
-          <div className="text-center">
-            <div className="text-xl md:text-3xl font-semibold mb-2">
-              Social Media
-            </div>
-            <div className="text-base md:text-lg">
-              Facebook
-              <br />
-              Instagram
-              <br />
-              Twitter
-            </div>
-          </div>
         </div>
       </div>
 
